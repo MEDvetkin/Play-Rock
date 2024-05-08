@@ -1,1 +1,1 @@
-Here is my little guitar store web application written in js. If you are interested, you can take a look and evaluate it.😄
+My pet project web store guitars, for the most part used js, you can look evaluate, edit)))
